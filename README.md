@@ -1,2 +1,2 @@
 # yara
-YARA Rules
+Temporary repository for YARA Rules
